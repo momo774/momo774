@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hey 👋, I learned to code to (code and learn). Take a look at what I've learned (through code).
 
 <!--
 **momo774/momo774** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
